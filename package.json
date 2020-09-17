@@ -1,0 +1,15 @@
+{
+  "name": "hr_web",
+  "version": "1.0.0",
+  "description": "静态资源调试",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "bobo",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
